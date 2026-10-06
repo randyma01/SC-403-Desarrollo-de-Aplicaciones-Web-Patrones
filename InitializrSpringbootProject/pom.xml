@@ -115,7 +115,14 @@
             <artifactId>jakarta.validation-api</artifactId>
             <type>jar</type>
         </dependency>
-    </dependencies>
+        
+         <!-- 8. Firebase -->
+        <dependency>
+            <groupId>com.google.firebase</groupId>
+            <artifactId>firebase-admin</artifactId>
+            <version>9.10.0</version>
+        </dependency>
+    </dependencies>    
 
     <build>
         <finalName>app</finalName>

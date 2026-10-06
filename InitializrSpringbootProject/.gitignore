@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Firebase
+InitializrSpringbootProject/src/main/resources/firebase/techshop-4f012-firebase-adminsdk-fbsvc-84ad9b5cd0.json
+
+### Other
+.DS_Store

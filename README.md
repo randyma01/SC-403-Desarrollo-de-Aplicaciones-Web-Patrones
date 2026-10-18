@@ -1,10 +1,13 @@
-# SC-403-Desarrollo-de-Aplicaciones-Web-Patrones
+# [SC-403]: Desarrollo-de-Aplicaciones-Web-Patrones
+
+## Portafolio: TechShop
 
 ---
 
-Repositorio individual para el curso [SC-403]: Desarrollo de Aplicaciones Web y Patrones
+Repositorio exclusivo para el portafolio del curso [SC-403] - Desarrollo de Aplicaciones Web y Patrones
 
-### Evaluaciones
+### Portafolio: TechShop Arquitectura
 
-- **Portafolio Individual:**
-  - Portafolio - Randy Martínez
+- Java + Springboot + Bootstrap
+- Despliegue y publicación: Render - [tienda-gb0a.onrender.com](tienda-gb0a.onrender.com)
+- Base de Datos MySQL: Aiven.io

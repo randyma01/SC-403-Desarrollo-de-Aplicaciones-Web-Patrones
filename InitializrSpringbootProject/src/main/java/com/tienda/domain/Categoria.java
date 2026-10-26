@@ -68,7 +68,12 @@ public class Categoria implements Serializable {
     
     private boolean activo;
     
+    // Relación de uno a muchos con la clase Producto
+    // Sin actualización en cascada
     @OneToMany(mappedBy="categoria")
     private List<Producto> productos = new ArrayList<>();
-    
+
+    public List<Producto> getProductos() {
+        return productos;
+    }   
 }
